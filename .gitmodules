@@ -1,3 +1,6 @@
 [submodule "Todo-application"]
 	path = Todo-application
 	url = https://github.com/narayan954/Todo-application
+[submodule "tic-tac-toe"]
+	path = tic-tac-toe
+	url = https://github.com/narayan954/tic-tac-toe
